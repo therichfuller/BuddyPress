@@ -1,1 +1,2 @@
-Defunction WordPress BuddyPress Plugins
+# BuddyPress
+Collections of Defunct Plugins for BuddyPress
